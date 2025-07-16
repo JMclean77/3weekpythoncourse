@@ -1,0 +1,10 @@
+Alice Johnson, 20, A, Computer Science
+Ben Smith, 22, B+, Mechanical Engineering
+Carla Davis, 19, A-, Biology
+David Lee, 21, B, Mathematics
+Eva Brown, 20, A, Psychology
+Frank Moore, 23, C+, Civil Engineering
+Grace Kim, 18, A+, Chemistry
+Henry Adams, 22, B-, Business
+Ivy Green, 21, B+, English Literature
+Jack White, 20, A-, Physics
